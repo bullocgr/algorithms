@@ -1,0 +1,11 @@
+In order to run my files, use g++. I compiled each cpp file on its own and then ran it by itself.
+For example (if I want to run insertsort.cpp):
+	g++ insertsort.cpp
+	./a.out
+This should print the sorted list to the appropriate file.
+
+In order to test the runtimes of my files, I just hard coded in the values I wanted to be tested. I changed the size of the array and how many times it looped to fill the array with random numbers. I also changed the value that was passed into the sorting algorithm in order to have it match up with how many elements are in the array.
+
+I compile the mergeTime.cpp and the insertTime.cpp the same way as my other files.
+
+Unfortunately, I could not figure out how to properly read the files so my sorting only does the first line of each file. My sorting works, my file i/o does not work 100%.
