@@ -1,0 +1,4 @@
+In order to compile my code, I was using this command in the bash terminal:
+    python graph.py graph.txt
+
+It should print everything out. The formatting for the distance is a little wonky, but it should be correct.

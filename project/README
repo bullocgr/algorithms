@@ -1,0 +1,15 @@
+Group Members:
+    Grace Bullock (bullocgr), Gabi Velazquez (velazqga), Steven Nguyen (nguyens5)
+
+NearestNighbor:
+    In order to run my NearestNighbor.py (the source file for the algorithm), I used the command:
+        python NearestNighbor.py <input file>.txt
+
+    Doing this will result in the time being printed to the terminal and the solution being printed to
+    <input file>.txt.tour.
+
+    When testing if the solutions matched the expected, I would run this command:
+        python tsp-verifier.py <input file>.txt <input file>.txt.tour
+
+    This will result in a message in the terminal stating whether or not the solutions matched the expected
+    output.
